@@ -13,6 +13,38 @@ timeline
     01/11/2026 : Liste des sujets - modification 2
 ```
 
+## Planning (Gantt)
+
+```mermaid
+gantt
+    title Avancement du projet
+    dateFormat DD/MM/YYYY
+    axisFormat %d/%m
+    section Conception
+    Diagramme GCD                 :done, 18/10/2026, 1d
+    Diagramme des améliorations   :done, 27/10/2026, 1d
+    section Interface
+    Accueil, sujets, calendrier   :done, 28/10/2026, 1d
+    Modification 2 liste sujets   :done, 01/11/2026, 1d
+```
+
+## Avant / Après
+
+| Avant (28/10/2026) | Après (01/11/2026) |
+|---|---|
+| ![](listes%20des%20sujets.png) | ![](liste%20des%20sujet_modofication2%20%281%29.png) |
+
+## Checklist d'avancement
+
+- [x] Diagramme GCD
+- [x] Diagramme des améliorations de la plateforme
+- [x] Page d'accueil
+- [x] Liste des sujets
+- [x] Calendrier
+- [x] Comment candidater
+- [x] Modification de la liste des sujets
+- [ ] Formulaire de candidature
+
 ## Captures
 
 | Date | Contenu | Capture |
