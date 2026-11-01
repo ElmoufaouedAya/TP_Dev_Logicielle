@@ -13,21 +13,6 @@ timeline
     01/11/2026 : Liste des sujets - modification 2
 ```
 
-## Planning (Gantt)
-
-```mermaid
-gantt
-    title Avancement du projet
-    dateFormat DD/MM/YYYY
-    axisFormat %d/%m
-    section Conception
-    Diagramme GCD                 :done, 18/10/2026, 1d
-    Diagramme des améliorations   :done, 27/10/2026, 1d
-    section Interface
-    Accueil, sujets, calendrier   :done, 28/10/2026, 1d
-    Modification 2 liste sujets   :done, 01/11/2026, 1d
-```
-
 ## Avant / Après
 
 | Avant (28/10/2026) | Après (01/11/2026) |
@@ -50,10 +35,4 @@ gantt
 | Date | Contenu | Capture |
 |---|---|---|
 | 18/10/2026 | Diagramme GCD | ![](GCD%20diagramme%20git.png) |
-| 27/10/2026 | Diagramme des améliorations de la plateforme | ![](Infographie%20des%20am%C3%A9liorations%20de%20la%20plateforme%20GCD%20%281%29.png) |
-| 28/10/2026 | Page d'accueil | ![](page%20d'acceuil.png) |
-| 28/10/2026 | Liste des sujets | ![](listes%20des%20sujets.png) |
-| 28/10/2026 | Calendrier | ![](calendrier.png) |
-| 28/10/2026 | Comment candidater | ![](comment%20condidater.png) |
-| 01/11/2026 | Liste des sujets – modification 2 (1) | ![](liste%20des%20sujet_modofication2%20%281%29.png) |
-| 01/11/2026 | Liste des sujets – modification 2 (2) | ![](liste%20des%20sujet_modofication2%20%282%29.png) |
+| 27/10/2026 | Diagramme des améliorations de la plateforme |
