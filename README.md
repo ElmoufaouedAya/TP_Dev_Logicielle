@@ -2,6 +2,19 @@
 
 Captures de l'application, classées par date de dépôt.
 
+## Axe de temps
+
+```mermaid
+timeline
+    title Évolution de l'application
+    18/10/2026 : Diagramme GCD
+    27/10/2026 : Diagramme des améliorations
+    28/10/2026 : Page accueil : Liste des sujets : Calendrier : Comment candidater
+    01/11/2026 : Liste des sujets - modification 2
+```
+
+## Captures
+
 | Date | Contenu | Capture |
 |---|---|---|
 | 18/10/2026 | Diagramme GCD | ![](GCD%20diagramme%20git.png) |
