@@ -12,6 +12,7 @@ timeline
     28/10/2026 : Page accueil : Liste des sujets : Calendrier : Comment candidater
     01/11/2026 : Liste des sujets - modification 2
     02/11/2026 : Page accueil - modification 2 : Calendrier - modification 1 : Partie inscription : Se connecter : Scan avec camera : Responsive mobile
+    03/11/2026 : Scan avec camera v2 : Diagramme de classes simple : Diagramme de classes détaillé : Diagramme d'états-transitions : Tableau difficultés et solutions
 ```
 
 ## Avant / Après
